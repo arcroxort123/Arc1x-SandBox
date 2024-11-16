@@ -150,3 +150,6 @@ This allows a solid-state read/large-text-block even and splits it up to be repr
 It will auto compile and contancate where necessary until the readout is fully completed or relayed per its instance/cycle for which is considered frame/buffered.
 It is macro'd in optimization to be one line per proc , and may optimize or reiterate that proc as needed in its exeuctions which can be confiugred in steps.
 The macro then is repeated for every line and so on (the macro can be adjusted to cover more ranges or lines) in context it and use multiple steps for continuance/touchup/poptmization of the original survey. (it can probably handle 10s of lines at at ime) allowing for script management too.
+---
+It converts/transcodes a survey/codestring(spell) into a SCRIPT, and or transfixes it to other scripts or recompiles them as a singular script. (large instance) And also considered other scripts that may pertain to the development of its scripts as a FULL-STACK-PROGRAM.
+The Full-Stack-Program is then restructured and rebuilt as more lines and surveys are applied/transcoded. (It begins to fully nomilize itself overtime)
