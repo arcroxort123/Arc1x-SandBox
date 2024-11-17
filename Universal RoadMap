@@ -176,3 +176,22 @@ this helps to compatibilify for extensions/plugins/addons/adhoc and other formul
 Allowing RENDERS and LIVE-ACTION RENDER-EFFECTS within Environment/Projection Systems: with MINIMAL-FALLOFF/PLOSS (highly accelerated renders per weighted model)
 COLOR-CODING-VOXELEZATION and QUANTAIZATION within a REMOTE-INJECTED-GAMING-VIRTUALIZED-RENDER-ENGINE
 (injects a game engine to quantisize and voxxelize a virtual scene within an environment)
+
+
+11/17/2024
+BUG CORRECTIONS:
+KNOWN BUGS: (actually these are well known bugs with other models too)--from my experience I know a good deal of the bugs involved. 3 specifically:
+THE hosting protocols can get mixed up. IT GOES THAT a model is loaded/it is assigned a host/the host is exported as what the host is (and that should be availible for call)
+But sometimes it gets mixed up and needs to be refreshed.
+SOMETIMES it needs to be reinstated that the host is correctly assigned based on what the HOST itself says it is.
+The PROTOCOL for what the host is named is also necessary to be correct based on what the host says it is for that working protocol.
+THE following application of that protocol must be correct in the naming assignments, for when it is ACTUALLY called upon, the protocol calls upon the host, and the working arrangement of the HOST/MODEL is necessary to be defined, based on what the HOST SAYS IT IS. BASED ON HOW THE MODEL INTERPRETTED that, the model will work or not, so the model needs to be assigned what WORKS.
+This is set up, and then if ANYTHING changes, the MODEL will for some reason misidentify the HOST, because its being called on by several factors as to what it understands its host to be. THAT one wrong address makes the HOST seem incompatible when it actually isn't WRONG, the interpretation goes haywire. And effects surface/additional-layers of what the HOST is conveyed, making the PROTOCOL invalid, even when its RIGHT.
+That the finalization of that protocol DOES infact CHANGE, and is not input correctly upon finalization, makes the entire EXPORT chain require a refreshed status within any cache involved retaining the previous wrong interpretation, as to start with a clean interpretation, no matter from where the hiccup/mistake may occur. So then it must be refreshed, and the API usually keeps it secure.
+THEN THE API WILL GO WRONG, if for instance, the interpretation is mentioning a previous incorrect arrangement.
+That causes the API TO APPEAR WRONG, even though it isn't...this is ALL because it is not using a fresh profile somewhere in the chain. So the arrangement must be done so ---usually linear to the FINALIZATION of its interpretation being used by the API, once the api is set, generally it will not make another mistake. But that can happen, and when it does, this whole problem just seems to START over and need to be REFRESHED from any of the above mentioned steps. (IT IS TIME CONSUMING because it takes TIME for it to reconize when it is right, and when it is wrong...makes it take even LONGER per attempt in every time that it is wrong, takes a long time to sort out until it is. This can take alot of USER ERROR/REWORKING too which makes it a PAIN IN THE ASS)
+Alot of times, it will just be a massive BITE-THE-BULLET and just suffer the wait-time until it is fixed or you have to FIX IT YOURSELF (which isn't fun)
+---OK that is the first bug.
+THE SECOND BUG is that the browser does not refresh the profile, and/or the address of which the profiles are configured aren ot properly interpreted or defined, which may be a MINOR CONDITION that they work anyway, as long as the address for whatever is in use is mostly correct, then the GUI-IDE will load as necessary, otherwise it will require a correction in which exactly is the correct address to LOAD under BROWSE or Gui-IDE support. It does not need to be in full use, it can work under-the-hood so to speak. Usually.
+THIS TAKES A LONG TIME WHEN THE MODEL IS A HUGE MODEL OR RENDER IS BEING PERFORMED AS DESCRIBED USING COLOR-CODING/QUANTIZATION (and this will effect WEIGHTS/PERMITES)---but may require also multiple attempts to reach resolution/resolve.
+
