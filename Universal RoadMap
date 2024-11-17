@@ -207,3 +207,6 @@ This is because of INTENRALIZED/EXTERNALZIED or VIRTUALIZATION/BLACKSITE issues,
 --
 THE FOURTH BUG
 Is a small initialization issue in which an init/prep has not been supplied/appropriated correctly and or is generally mixed up to the effected environment which can be fixed---but generally does not effect the CORE-Program in target if it goes ignored.
+--
+THE FIFTH BUG
+In rare cases export/addresses or source-queues patho or variables(unlikely) --will need to be ALTERNATED between any shift/adjustment which would force to apply under a refreshed addressed.
