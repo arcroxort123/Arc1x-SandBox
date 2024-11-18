@@ -36,7 +36,7 @@ Other Features:
 Model Learns from itself and its own mistake and continues to build on pathfinding through mistakes/sampling
 Optional --Autoload --AutoCycle --AutoSample --Auto-Optimize(compound)
 
-It supports a MAIN/SUB model and Reinfer System. It supports DUAL-USE/Function and can sample set per environment of its DIRECT/VIRTUAL loadout (It can share data and results and "datascrape/repond per its results)
+It supports a MAIN/SUB model and Refiner System. It supports DUAL-USE/Function and can sample set per environment of its DIRECT/VIRTUAL loadout (It can share data and results and "datascrape/repond per its results)
 It will alternate and learn from its failures by comparison of its failures using dual-models. (One in load, one in virtual-load)
 It memetically compounds its results to further prpogate its training/learning.
 
@@ -59,3 +59,5 @@ A version of the Graze-Hulk that is secured within a chamber for which may be he
 Is typically used as a boundary guardian in rare cases a patrol-unit. (Secured-Tank) with its own lensing/header. *(Is faction operated and enabled through automated leviathan systems etc)
 
 A LEVIATHAN-Basecamp/Outpost-Range or any advanced tech-system will subsidize/branch-out with these models. Or eventually build something like it (with or without the use of models).
+---
+Models may be tethered/crosslinked for ease of access/quality of life and limitation/restriction of capabilities.
