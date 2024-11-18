@@ -37,4 +37,4 @@ CodeName:Graze-HUlk(headless-support)
 
 CodeName: Xoe-GlowBox (WithHeader)
 DetachableKernal Header(Chambered-Virtual-Engine)
-(GoldenRiver-System + Secure-Virtual-Kernal)=(GlowingBox with/without Header/Headless)
+(GoldenRiver-System + Secure-Virtual-Kernal)=(GlowingBox with/without Header/Headless)--(includes model/engine)
