@@ -34,7 +34,7 @@ It supports a MAIN/SUB model and Reinfer System. It supports DUAL-USE/Function a
 It will alternate and learn from its failures by comparison of its failures using dual-models. (One in load, one in virtual-load)
 It memetically compounds its results to further prpogate its training/learning.
 
-10x5 (regional platform/platitude) or 10x10 doesnt really matter. 100-stack 
+10x5 standard (regional platform/platitude) or 10x10 expanded (quantization doesnt really matter/ will work eitherway). 100-stack 
 100B PARAMETER-MODEL
 (Basically and OMNI-coderender/aiSCREEPS-kit)
 
