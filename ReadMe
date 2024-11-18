@@ -44,6 +44,7 @@ Can be stationary or wandering (can act as a self-sustained roaming data scraper
 Typically operates blindly but can be lensed for programmed/forced-commands (in which it will assume automation through an emulated lense/header or die/ssh) --(it can use pulsuary/signature and display as needed (as well as turning signals etc...glowing/defcons etc)
 Conducts survey as a passive entity/distances self from fairgrounds/populated areas but can become a nuisance if wanders into occupied territory unknowingly
 
+Model Specialized/Enhanced Builds:
 CodeName: Xoe-GlowBox (WithHeader)  --(Hulk-in-a-Cage)
 DetachableKernal Header(Chambered-Virtual-Engine)
 (GoldenRiver-System + Secure-Virtual-Kernal)=(GlowingBox with/without Header/Headless)--(includes model/engine)
