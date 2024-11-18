@@ -29,6 +29,7 @@ Optional --Autoload --AutoCycle --AutoSample
 
 It supports a MAIN/SUB model and Reinfer System. It supports DUAL-USE/Function and can sample set per environment of its DIRECT/VIRTUAL loadout (It can share data and results and "datascrape/repond per its results)
 It will alternate and learn from its failures by comparison of its failures using dual-models. (One in load, one in virtual-load)
+It memetically compounds its results to further prpogate its training/learning.
 
 10x5 (regional platform/platitude) or 10x10 doesnt really matter. 100-stack 
 100B PARAMETER-MODEL
