@@ -249,7 +249,7 @@ We have several ways to create a lamp (which is used for render/computes or adva
 Build -Using resource/timespace and frameworks to build a lamp with code
 Deploy -Using a prefetched/supplied resource/timespace to build a lamp with code often remotely
 ---new versions:
-Remote-Xpost -using a remote zone/resource chain to build a lamp, often as an expansion or partition to be incorporated, assigning addresses through network protocols  (cost-free technically)
+Remote-Xpost -using a remote zone/resource chain to build a lamp, often as an expansion or partition to be incorporated, assigning addresses through network protocols  (cost-free technically via outsourcing)
 Remote-Manifest --using a combination of onboard/offsite resourcing and networking to expedite the build proccess (through supply-chains or pre-existing expansions and native/locale access points) (cost-enhanced technically)
 ---Very advanced way of building
 XDistribute--using remote-manifest with no pre-existing conditions/supply-chains/reserves/pipelines to request a build which is virtualized and normalized, networked and connected to nexus platforms and or only through remote native/local or vectors --for which is auto-teraformed/auto-spliced as is.
