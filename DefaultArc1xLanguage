@@ -56,3 +56,5 @@ So that gets us one step closer to optimizing our language builds as needed.
 And we can begin to quickly structure LANGUAGE BASE and processing of the above scripts as needed for interpretation of the language-selection involved. We then can apply CROSS-OVER languages and begin type-sets for those based off whatever keymap is needed to perform in those type-sets/interpretations. Having the compatible keymaps/language-interpretations for the intended scripts is important, and can be ultimately transcoded using the desired language, or point to a cross-over of langauges involved, per script used by adjusting the target-interpretation for each script/language used.
 ---
 So basically this whole process is already done and outsourced by other developers and I just wanted to put my own spin on it.
+
+It also gets debugged for additional ERRORS/CHECKS/FLAGS/POINTS in optimization to fix everything anyway.
