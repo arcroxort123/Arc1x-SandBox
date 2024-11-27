@@ -3,17 +3,19 @@ This describes a build process which I guess I will code together later. Actuall
 Using Windsurf or something like it to basically achieve this pattern of workflow:
 
 Source a workspace or refer a destination:
+(and it begins to use model-ai-engineering to develop):
+--Step1 Samples
 Select Snippet or CodeStrings into workspace/destination or file or general collection.
 Excerpt additional snippet/codestring or Sample multiple files/Collections for the workspace directory 
-(and it begins to use model-ai-engineering to develop):
---
+--Step2 Ties
 Tie together multiple samples
 Rerun:Tie together original or additional samples .
---
+--Step3 Tethers
 Tether together multiple ties
 Rerun: Tehther together multiple ties or samples
---
-Construct Modules from snippets/collections or samples/ties/tethers
-Expand modules from all of the above previous snippets/collections or samples/ties/tethers/modules
---
-Complete stack/infrastructure as project build or expand project builds.
+--Step4 References/Scripts
+Construct References/Scripts from snippets/collections or samples/ties/tethers
+Expand Constructs from all of the above previous snippets/collections or samples/ties/tethers/modules, with additional References/Scripts that may be included/apply-as-needed
+--Step5 Modules(any stage)
+Use Constructs and Modules to complete/merge project/builds or expand on additional project builds/branches.
+Complete stack/infrastructure as project build or expand project builds/branches.
