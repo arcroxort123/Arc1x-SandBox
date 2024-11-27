@@ -2,6 +2,7 @@
 This describes a build process which I guess I will code together later. Actually I am just lazy and will only describe it because I can't code
 Using Windsurf or something like it to basically achieve this pattern of workflow:
 
+--Step0 Source/Platform
 Source a workspace or refer a destination:
 (and it begins to use model-ai-engineering to develop):
 --Step1 Samples
