@@ -1,22 +1,26 @@
 11/27/2024
 This describes a build process which I guess I will code together later. Actually I am just lazy and will only describe it because I can't code
-Using Windsurf or something like it to basically achieve this pattern of workflow:
+Using Windsurf or something like it to basically achieve this pattern of workflow: Idk, I wanted to make it as complicated and streamlined as possible.
 
 --Step0 Source/Platform
 Source a workspace or refer a destination:
-(and it begins to use model-ai-engineering to develop):
+Rerun:(and it begins to use model-ai-engineering to develop):
 --Step1 Samples
 Select Snippet or CodeStrings into workspace/destination or file or general collection.
-Excerpt additional snippet/codestring or Sample multiple files/Collections for the workspace directory 
+Rerun:Excerpt additional snippet/codestring or Sample multiple files/Collections for the workspace directory 
 --Step2 Ties
 Tie together multiple samples
 Rerun:Tie together original or additional samples .
 --Step3 Tethers
 Tether together multiple ties
-Rerun: Tehther together multiple ties or samples
+Rerun: Tether together multiple ties or samples
 --Step4 References/Scripts
 Construct References/Scripts from snippets/collections or samples/ties/tethers
-Expand Constructs from all of the above previous snippets/collections or samples/ties/tethers/modules, with additional References/Scripts that may be included/apply-as-needed
---Step5 Modules(any stage)
-Use Constructs and Modules to complete/merge project/builds or expand on additional project builds/branches.
-Complete stack/infrastructure as project build or expand project builds/branches.
+Rerun:Expand Constructs from all of the above previous snippets/collections or samples/ties/tethers/modules, with additional References/Scripts that may be included/apply-as-needed
+--Step5 Modules/Stacks (any stage)
+Construct Modules/Stacks to complete/merge project/builds or expand on additional project builds/branches.
+Rerun:Complete stack/infrastructure as project build or expand project builds/branches.
+--Step6 Compile
+Correalate All Workspace/Destination/Codestrings/Snippets/Files/Collections/Excerpts/Directories/Ties/Samples/Tethers/References/Scripts/Constructs/Expansions/Modules/Stacks/Project/Builds/Branches/Infrastructure/Steps/Inclusions/Applications and Remediations/Exemptions to be Debuged/Tested
+Correalate compiles to additional assembly under environment and Environment settings.
+
