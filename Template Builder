@@ -1,0 +1,18 @@
+11/27/2024
+This describes a build process which I guess I will code together later. Actually I am just lazy and will only describe it because I can't code
+Using Windsurf or something like it to basically achieve this pattern of workflow:
+
+Source a workspace or refer a destination:
+Select Snippet or CodeStrings into file or collection
+Excerpt File or Sample multiple Collections
+--
+Tie together multiple samples
+Rerun:Tie together original or additional samples .
+--
+Tether together multiple ties
+Rerun: Tehther together multiple ties or samples
+--
+Construct Modules from snippets/collections or samples/ties/tethers
+Expand modules from all of the above previous snippets/collections or samples/ties/tethers/modules
+--
+Complete stack/infrastructure as project build or expand project builds.
