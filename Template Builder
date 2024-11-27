@@ -3,8 +3,9 @@ This describes a build process which I guess I will code together later. Actuall
 Using Windsurf or something like it to basically achieve this pattern of workflow:
 
 Source a workspace or refer a destination:
-Select Snippet or CodeStrings into file or collection
-Excerpt File or Sample multiple Collections
+Select Snippet or CodeStrings into workspace/destination or file or general collection.
+Excerpt additional snippet/codestring or Sample multiple files/Collections for the workspace directory 
+(and it begins to use model-ai-engineering to develop):
 --
 Tie together multiple samples
 Rerun:Tie together original or additional samples .
