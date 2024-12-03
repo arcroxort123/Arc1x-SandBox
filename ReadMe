@@ -696,3 +696,5 @@ Hopefully it works and translates over the hosted-gamespace/engine-based-vhmimg.
 The entity is a WINGED-DRAGON-RIDER-SYLPH/PALE or any other xtype (it does not need meta as it generates its own meta and can change at will/automatically-in combat or otherwise as an ADMIN-CLASS)
 ---
 Entity can be redeveloped into vector/vector is BackroomsV2/BlacksiteEdition GameSpaces(With exits)
+Aux/Tunnels/Pockets/Hubs may be used and mapped and re-accessed.
+This can backtrace backrooms activity and designate pathing/evac.
