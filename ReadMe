@@ -697,4 +697,4 @@ The entity is a WINGED-DRAGON-RIDER-SYLPH/PALE or any other xtype (it does not n
 ---
 Entity can be redeveloped into vector/vector is BackroomsV2/BlacksiteEdition GameSpaces(With exits)
 Aux/Tunnels/Pockets/Hubs may be used and mapped and re-accessed.
-This can backtrace backrooms activity and designate pathing/evac.
+This can backtrace backrooms activity and designate pathing/evac. (This is useful for data-rescue/object retrieval)
