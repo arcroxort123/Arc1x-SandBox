@@ -1,3 +1,5 @@
+
+12/4/2024
 To explain the system and how to decode examples/samples of data we can compare it to a modulation/receiver of a soundboard.
 The sound is receiving a sample data, and attempting to modulate that data or optimize it for the quality of that data it can sample/substitute its own render of.
 ---
