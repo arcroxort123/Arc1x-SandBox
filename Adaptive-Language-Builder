@@ -1,0 +1,31 @@
+12/11/2024
+
+1) Use of LS
+Long pulse Short Pulse
+2) Use of HolePunch/UnPunched
+Recognizes for On/OFF or I/O based on expected holes/nonpunched holes
+3)Use of I/O expectations for an ON system prefix.
+4)Use of I/O expectations for an OFF system prefix.
+5)Use of I/O expectations for a hanging-chad prefix
+6)Use of I/O expectations for a HANGING-CHAD prefix to be HARD-CODED suffix
+7)Use of Prefix Suffix to simulate expectation of a morse (character)
+8)Use of Prefix Suffix to simulate expectations of a capitalization (character)
+9)Match of morse and captilization as a KEYMAP for all characters a-z.
+10)Match of KEYMAP to a TYPESET for all characters to be hard coded under match
+11)Use of TYPESET in BIOS HARDCODES
+12)Use of BIOS-HARDCODES to a binary match
+---
+13)Use of BINARY MATCH to a LIBRARY
+14)Use of LIBRARY-HANGING to an INDEX
+15)Use of INDEX to a LANG-COMPILE.
+16)Use of LANG-COMPILE to allow EXPECTED ENCODE
+17)Use of ENCODE to a SYMBOL
+18)Use of SYMBOL to a DEFINITION
+19)Use of DEFINITION to an ID
+20)Use of ID to a Class
+21)Use of Class to a FUNCTION
+22)Use of Function to a STRING
+23)Use of STRING to a SCRIPT
+24)Use of SCRIPT to a PROGRAM
+25)Use of PROGRAM to PROFILE
+--Quartered-Profiles use Conditions to determine all factors/variables.
