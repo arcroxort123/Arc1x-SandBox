@@ -1,5 +1,5 @@
 12/11/2024
-
+---BAREBONES BUILD (part1)--COMPOSE(UP)
 1) Use of LS
 Long pulse Short Pulse
 2) Use of HolePunch/UnPunched
@@ -14,7 +14,8 @@ Recognizes for On/OFF or I/O based on expected holes/nonpunched holes
 10)Match of KEYMAP to a TYPESET for all characters to be hard coded under match
 11)Use of TYPESET in BIOS HARDCODES
 12)Use of BIOS-HARDCODES to a binary match
----
+
+---DRIVER BUILD (part2)--PATCH(UP)
 13)Use of BINARY MATCH to a LIBRARY
 14)Use of LIBRARY-HANGING to an INDEX
 15)Use of INDEX to a LANG-COMPILE.
@@ -27,5 +28,7 @@ Recognizes for On/OFF or I/O based on expected holes/nonpunched holes
 22)Use of Function to a STRING
 23)Use of STRING to a SCRIPT
 24)Use of SCRIPT to a PROGRAM
+
+---Profile Quarter and Exchange (part3)
 25)Use of PROGRAM to PROFILE
 --Quartered-Profiles use Conditions to determine all factors/variables.
