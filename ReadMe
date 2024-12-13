@@ -1108,4 +1108,4 @@ Such for a dev-selections:
 Special-case-DEV-OVERLAY(SPLIT SANBOX/DEVBASE) --(dev arrival/departure)
 COMBINED-DEV+OPS-OVERLAY(dual boots of SANDBOX/DEVASE) --(user sandbox integration)
 DEV-SAFEMEASURE(Emulation Protections between UserGroups for ADMIN-presences) --(forced safe-measures and isolations/islands of sandboxes/simulations)
-HARDENED-DEFCONS(For PRIORITIZED INTERACTIONS between Sandboxes/SIMULATIONS and DEV-USAGES within dualboots/devbased -multi-tty's) --SAFEMEASURE and RESTRICTED-DEV-OPS with DEV-ARRIVAL/DEV-EMULATIONS of NESTED/INJECTED Simulations/Workspaces (DEV-PRIORITY)
+HARDENED-DEFCONS(For PRIORITIZED INTERACTIONS between Sandboxes/SIMULATIONS and DEV-USAGES within dualboots/devbased -multi-tty's) --SAFEMEASURE and RESTRICTED-DEV-OPS with DEV-ARRIVAL/DEV-EMULATIONS of NESTED/INJECTED Simulations/Workspaces (DEV/OWNERSHIP-PRIORITY)
