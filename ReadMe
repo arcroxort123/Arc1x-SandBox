@@ -1285,3 +1285,5 @@ allow emission if proc/calc to virtual data/ materialize energy/convert matter
 ---
 assign spinography
 assign vector and orthagonal projection (data exchange)
+--
+set super-relativity as true/false per target/focal (optical-lock)
