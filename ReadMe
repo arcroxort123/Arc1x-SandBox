@@ -1278,3 +1278,5 @@ SIM-MASK(casket)-emission-tester---apply debug (check/flag)--surface-applier and
 apply in diff (independency)
 apply indepdency per particle asset of origin
 source and oversource to range/overarnge and nusim
+---
+default to signature and apply where applicable or set indepdency to ignore apply
