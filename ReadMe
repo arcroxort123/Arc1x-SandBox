@@ -1268,4 +1268,6 @@ Solve or Formulate a Force(kinetic)
 Set Velocity and calculate for rate of change (work)
 ---
 use logic-basis/ and inpaint-matrix of all logic/basis to objects/assets
-copute the simulation state (phase 1)
+compute the simulation state (phase 1)
+---
+allow float to buffer and shader multhreading-allow also
