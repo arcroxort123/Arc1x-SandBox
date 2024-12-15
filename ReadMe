@@ -1275,4 +1275,6 @@ allow float to buffer and shader multhreading-allow also
 base-->virtualized-->pickle-->newpickle-virtual-->debug--->debug--nu-nase
 --
 SIM-MASK(casket)-emission-tester---apply debug (check/flag)--surface-applier and AUTOindexe (psuedo-data)--transfix/snapshot to psuecode-codestate
-apply in diff
+apply in diff (independency)
+apply indepdency per particle asset of origin
+source and oversource to range/overarnge and nusim
