@@ -1268,11 +1268,13 @@ Solve or Formulate a Force(kinetic)
 Set Velocity and calculate for rate of change (work)
 ---
 use logic-basis/ and inpaint-matrix of all logic/basis to objects/assets
-compute the simulation state (phase 1)
+compute the simulation state (phase 1)  (shader and floats for vectors and islands)
+VECTOR FLOAT1
+****
 ---
 allow float to buffer and shader multhreading-allow also
 ---
-base-->virtualized-->pickle-->newpickle-virtual-->debug--->debug--nu-nase
+base-->virtualized-->pickle-->newpickle-virtual-->debug--->debug--nu-base
 --
 SIM-MASK(casket)-emission-tester---apply debug (check/flag)--surface-applier and AUTOindexe (psuedo-data)--transfix/snapshot to psuecode-codestate
 apply in diff (independency)
@@ -1288,3 +1290,4 @@ assign vector and orthagonal projection (data exchange)
 --
 set super-relativity as true/false per target/focal (optical-lock)
 Set echo TO PATH/ --set supersymmetry as active/inactive
+VECTORFLOAT2
