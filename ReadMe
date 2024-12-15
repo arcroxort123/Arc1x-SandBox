@@ -1266,6 +1266,7 @@ Use a new model from that bracnh. it is now simulatable. (use gravity in a unipo
 ---
 Solve or Formulate a Force(kinetic)
 Set Velocity and calculate for rate of change (work)
+(allow particle cloudworks)
 ---
 use logic-basis/ and inpaint-matrix of all logic/basis to objects/assets
 compute the simulation state (phase 1)  (shader and floats for vectors and islands)
@@ -1299,3 +1300,4 @@ killed polarization/data-spaces (vectors and islands) and independency
 chokehold to buffer and set in QUEUE (organize queue to PROC)
 prioritize transcode/transfixation
 ---nuclear fusion/fission exchange/emitter
+(CLOUDWORKS SAFE Centralization)
