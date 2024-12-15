@@ -1271,3 +1271,5 @@ use logic-basis/ and inpaint-matrix of all logic/basis to objects/assets
 compute the simulation state (phase 1)
 ---
 allow float to buffer and shader multhreading-allow also
+---
+base-->virtualized-->pickle-->newpickle-virtual-->debug--->debug--nu-nase
