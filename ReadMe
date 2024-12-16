@@ -1257,6 +1257,8 @@ Adding a quickfix for coding some particle workspace per each simulation: (I hav
 REF-LINK VIDEO
 https://www.youtube.com/watch?v=k4aI-MBTl5w (NOT MY VIDEO but using as reference)---i changed some things and added in some suggestions to help integrate to my own "world-model" (which allows some progressive/progenerative particle-manipulation and matrix-painting by render)
 ----
+Base-Vector/Base-Surface/Base-Zerospace/Base-Float-0
+----
 THE NUSHA SIMULATION: (developing an indepdency for photons)
 Back in the simulation
 we have a lit-particle-simulation
@@ -1275,6 +1277,7 @@ Set Velocity and calculate for rate of change (work)
 ---
 use logic-basis/ and inpaint-matrix of all logic/basis to objects/assets
 compute the simulation state (phase 1)  (shader and floats for vectors and islands)
+
 VECTOR FLOAT1
 ****
 ---
@@ -1296,6 +1299,7 @@ assign vector and orthagonal projection (data exchange)
 --
 set super-relativity as true/false per target/focal (optical-lock)
 Set echo TO PATH/ --set supersymmetry as active/inactive
+
 VECTORFLOAT2
 ---*
 CALCULATE ENTROPY
@@ -1306,6 +1310,7 @@ chokehold to buffer and set in QUEUE (organize queue to PROC)
 prioritize transcode/transfixation
 ---nuclear fusion/fission exchange/emitter
 (CLOUDWORKS SAFE Centralization)
+
 VECTOR FLOAT 3
 ***
 ---
@@ -1318,3 +1323,13 @@ optional automations and preferential-prompting (action.priority queue-selection
 
 ---Basically some twisted form of Sonic-the-Hedgehod Memetic taking place:(just bare with me, these encompass traits that are easier expressed as anthromorphic-code/mechforms) --its just...easier to write it off as:
 ShadowWprg/DeathPossum entity with minion/warden bandicoots/Kangaroo-Cryptids using advanced genomorphs/mutagenics. (And that sums up most of the xtypes) these are cybernetically enhanced now ofc.
+
+---
+VectorFloat4--completely optional
+Viral Security Lock and Nusha Evaluator (Detector) --Trafficing/Networking Check/Pass
+Quarantine System and Pickle/Render Checker (GOOD/BAD selection)--Quantum-Dynamic repeater/comparator (state exchange and buffer)
+Sharehold (Conjugal) Access and Inter-mersionary Queue/Nusha-Pooling (priority COMMIT/SHARED-COMMIT) --(Quantum-User-Connection)
+Multi-USER-EXPERIENCE/Interactive-Compatibility-(Exposure/EXPO-Lane and virtual-image-integrator)--(bullion2bullion/image2image sim/sim comerger)---emulated quantum-fusion (shared perspective and optical state/crosslink)
+User-Emission(particle) CLOUDWORKS (instance-triptographic) --RAID/NODE censorgraphy/analgraphy
+---Special Case Quantum-Services (and intensive/forcible quantum philosophy)
+
