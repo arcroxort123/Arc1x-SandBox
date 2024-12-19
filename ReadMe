@@ -1567,3 +1567,4 @@ Great purge, will immediately make this a nonissue when it purges all aggression
 ---
 If the system is built right this is almost never a problem.
 AiTrace/Swastika/Crypto-pollute/Carrion issues are resolved in automatic-security sweeps.
+This also cleanses all xtacts of their current-combat states (by elimiating/resetting all aggressors and native/local rogues) when performed with any 
